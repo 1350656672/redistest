@@ -13,7 +13,7 @@ import javax.annotation.Resource;
 import java.util.Random;
 import java.util.Set;
 
-@SpringBootTesta
+@SpringBootTest
 //@ImportResource("classpath:beans.xml")
 
 class RedistestApplicationTests {
